@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Google Apps Script
+.clasp.json
+
+# VS Code
+.vscode/
+.DS_Store
+
+# OS‑specific
+Thumbs.db

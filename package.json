@@ -1,0 +1,12 @@
+{
+  "name": "gas-learning-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint .",
+    "test": "node tests/tests.gs"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
